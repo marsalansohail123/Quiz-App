@@ -1,0 +1,20 @@
+:root{
+    --primaryColor: #B3541E;
+    --lightColor: #FFEDED;
+}
+
+body{
+    background-color: #362222;
+}
+
+.backgroundPrimary{
+    background-color: var(--primaryColor);
+}
+
+.backgroundLight{
+    background-color: var(--lightColor);
+}
+
+.txtPrimary{
+    color: var(--primaryColor);
+}
